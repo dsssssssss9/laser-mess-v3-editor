@@ -1,0 +1,22 @@
+{
+    "name": "laser mess v3 editor",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "IR": "github:lioujj/pxt-ir#54b42abb1556601b772b3c0f6cd20fd19f39e527"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
